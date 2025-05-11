@@ -6,7 +6,7 @@ categories: [mathematics, set theory]
 tags: [sets, basic concepts, mathematics]
 ---
 
-# 집합의 기본 개념 완벽 가이드 | Complete Guide to Basic Concepts of Sets
+집합의 기본 개념 완벽 가이드 | Complete Guide to Basic Concepts of Sets
 
 ## 1. 집합이란? | What is a Set?
 집합은 서로 다른 대상들의 모임을 의미합니다. 이때 집합을 구성하는 각각의 대상을 '원소'라고 합니다.

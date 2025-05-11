@@ -6,7 +6,7 @@ categories: [mathematics, set theory]
 tags: [set classification, finite sets, infinite sets, countable sets, mathematics]
 ---
 
-# 집합의 분류 완벽 가이드 | Complete Guide to Set Classification
+집합의 분류 완벽 가이드 | Complete Guide to Set Classification
 
 ## 1. 유한집합과 무한집합 | Finite and Infinite Sets
 ### 1.1 유한집합 (Finite Set)

@@ -6,7 +6,7 @@ categories: [mathematics, education]
 tags: [set theory, basic mathematics, curriculum]
 ---
 
-# 집합론부터 시작하는 기본 수학 커리큘럼 (Basic Mathematics Curriculum Starting from Set Theory)
+집합론부터 시작하는 기본 수학 커리큘럼 (Basic Mathematics Curriculum Starting from Set Theory)
 
 ## 1. 집합론 (Set Theory)
 ### 1.1 집합의 기본 개념 (Basic Concepts of Sets)

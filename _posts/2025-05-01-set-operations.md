@@ -6,7 +6,7 @@ categories: [mathematics, set theory]
 tags: [set operations, union, intersection, difference, mathematics]
 ---
 
-# 집합의 연산 완벽 가이드 | Complete Guide to Set Operations
+집합의 연산 완벽 가이드 | Complete Guide to Set Operations
 
 ## 1. 합집합 (Union)
 ### 1.1 정의 (Definition)
